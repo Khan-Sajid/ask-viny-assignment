@@ -1,0 +1,20 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+.emailForm{
+  text-align: center;
+}
+.emailForm input {
+  margin-right: 8px;
+  border-radius: 4px;
+  padding:3px 8px;
+}
+
+.emailForm button {
+  background-color: #ffff;
+  color: rgb(0, 0, 0);
+  border-radius: 4px;
+  border: 1px solid black;
+  font-weight: 600;
+}
